@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514655/6611/wave-animated.gif?1643514655" width="50"/> Hey, I'm CodeShady!</h1>
+<h1>👋 Hey, I'm CodeShady!</h1>
 
 I'm a self-taught Full-Stack developer who lives in the <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> **USA** and <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **France**. Currently a student at **École 42** in Paris, I'm exploring various aspects of technology, from pen-testing to software development.
 
