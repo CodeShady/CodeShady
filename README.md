@@ -12,7 +12,7 @@
 
 ##
 
-<p>I'm a self-taught Full-Stack developer who lives in the <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <strong>USA</strong> and <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>France.</strong> Currently working at <strong>École 42</strong> in Paris, I'm exploring various aspects of technology, from pen-testing to software development.</p>
+<p>I'm a Full-Stack developer who lives in the <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <strong>USA</strong> and <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>France.</strong> I'm currently exploring various aspects of technology, from pen-testing to software development.</p>
 
 ## 🧙‍♂️ Wizardry
 
